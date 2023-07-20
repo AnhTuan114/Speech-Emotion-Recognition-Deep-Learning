@@ -3,7 +3,7 @@ dataset, Project report
 link: https://drive.google.com/drive/folders/1F4l5zzya4kFfOSAfZ-lgZAoyO7wCGHtN
 
 Project Description:
-Data: The dataset consists of 200 samples, extracted from two actresses (26 years old and 64 years old), mentioning the word "let's say the word_" in the phrase "言う_". The recordings created from this set are annotated for seven emotions (anger, disgust, fear, happiness, interesting surprise, sadness, neutrality). A total of 2800 data points (audio files).
+Data: The dataset consists of 200 samples, extracted from two actresses (26 years old and 64 years old), mentioning the word "let's say the word_". The recordings created from this set are annotated for seven emotions (anger, disgust, fear, happiness, interesting surprise, sadness, neutrality). A total of 2800 data points (audio files).
 
 Algorithms used:
 Long short-term memory (LSTM)
