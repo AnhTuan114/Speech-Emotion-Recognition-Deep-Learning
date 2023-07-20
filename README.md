@@ -13,7 +13,7 @@ Key Points of Focus:
 Data Processing Pipeline: Data is extracted from each audio file, standardized, and features are extracted. The selected features, such as Energy-Root Mean Square (RMS), Zero Cross Rate (ZCR), and Mel Frequency Cepstral Coefficient (MFCC) (frame_length = 2048, hop_length = 512), are extracted using Librosa for the audio emotional recognition model. All features are combined into a single "x" variable.
 
 Technologies Used:
-Python, Windows, TensorFlow
+Python, TensorFlow
 
 Team Size:
 3 members
