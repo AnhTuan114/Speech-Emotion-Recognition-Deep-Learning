@@ -1,6 +1,6 @@
 # Speech_Emotion_Recognition_Deep_Learning
 dataset, Project report 
-link: https://drive.google.com/drive/folders/1F4l5zzya4kFfOSAfZ-lgZAoyO7wCGHtN
+https://drive.google.com/drive/folders/1JxAC8Pdo7Mo_3eO9wexB_xzXjDTqHvO5?usp=sharing
 
 Project Objective:
 The project aims to deploy a machine learning model for emotion classification through audio. The goal is to analyze emotions corresponding to audio inputs, such as sound-based recognition projects for speech, singing, and more.
@@ -19,6 +19,3 @@ Selected features, such as Energy-Root Mean Square (RMS), Zero Cross Rate (ZCR),
 
 Technologies Used:
 Python, TensorFlow
-
-Team Size:
-3 members
